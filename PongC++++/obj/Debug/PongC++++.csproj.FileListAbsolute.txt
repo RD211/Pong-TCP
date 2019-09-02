@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\PongC++++\PongC++++\bin\Debug\PongC++++.exe.config
+C:\Users\David\source\repos\PongC++++\PongC++++\bin\Debug\PongC++++.exe
+C:\Users\David\source\repos\PongC++++\PongC++++\bin\Debug\PongC++++.pdb
+C:\Users\David\source\repos\PongC++++\PongC++++\obj\Debug\PongC++++.csprojAssemblyReference.cache
+C:\Users\David\source\repos\PongC++++\PongC++++\obj\Debug\PongC____.Dashboard.resources
+C:\Users\David\source\repos\PongC++++\PongC++++\obj\Debug\PongC____.Properties.Resources.resources
+C:\Users\David\source\repos\PongC++++\PongC++++\obj\Debug\PongC++++.csproj.GenerateResource.cache
+C:\Users\David\source\repos\PongC++++\PongC++++\obj\Debug\PongC++++.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\PongC++++\PongC++++\obj\Debug\PongC++++.exe
+C:\Users\David\source\repos\PongC++++\PongC++++\obj\Debug\PongC++++.pdb
+C:\Users\David\source\repos\PongC++++\PongC++++\bin\Debug\SimpleTCP.dll
+C:\Users\David\source\repos\PongC++++\PongC++++\bin\Debug\SimpleTCP.pdb
+C:\Users\David\source\repos\PongC++++\PongC++++\obj\Debug\PongC++++.csproj.CopyComplete
+C:\Users\David\source\repos\PongC++++\PongC++++\obj\Debug\PongC____.DialogEntry.resources
